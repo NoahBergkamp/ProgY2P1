@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using UnityEngine;
 
-public class player : MonoBehaviour
+public class Player : MonoBehaviour
 {
     private string name = "Jakub";
     private bool alive = true;
@@ -28,7 +28,7 @@ public class player : MonoBehaviour
 
         Score();
 
-        Player();
+        player();
     }
 
     void Update()
@@ -103,7 +103,7 @@ public class player : MonoBehaviour
         public int Score;
     }
 
-    private void Player()
+    private void player()
     {
         Speler Mario = new Speler();
 
