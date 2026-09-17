@@ -1,2 +1,2 @@
 # ProgY2P1
-![Screenshot](images/screenshot.png)
+![Screenshot](image1.png)
