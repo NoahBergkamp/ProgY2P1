@@ -8,4 +8,5 @@ deze opdracht was een herhaling van vorig jaar
 # Opdracht 2
 ![GIF](./bossfightcut.gif)
 
-
+# Opdracht 3
+![Debug](./debug.png)
