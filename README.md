@@ -8,6 +8,7 @@ deze opdracht was een herhaling van vorig jaar
 # Opdracht 2
 ![GIF](./bossfightcut.gif)
 
+
 # Opdracht 3
 ![Debug](./debug.png)
 
@@ -38,3 +39,5 @@ public variables changed:
     public int CurrentRound = 1;
     public int MaxRounds = 10;
     public float timeBetweenRounds = 2f;  
+
+[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/CardsTD/tree/main/tower%20defense/Assets/scripts)
