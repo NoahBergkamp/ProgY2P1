@@ -41,3 +41,4 @@ public variables changed:
     public float timeBetweenRounds = 2f;  
 
 [[Prog5/Assets/Script]](https://github.com/NoahBergkamp/CardsTD/tree/main/tower%20defense/Assets/scripts)
+note: zit ook wiskunde huiswerk in wat niet bij de bo hoort aangezien jelle dat wou
