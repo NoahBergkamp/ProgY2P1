@@ -14,7 +14,7 @@ deze opdracht was een herhaling van vorig jaar
 
 # opdracht 4
 public variables changed:
-    [Header("Spawn Point")]
+    
     public Transform start;
 
     public int singular = 1;
