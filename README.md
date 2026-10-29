@@ -13,7 +13,7 @@ deze opdracht was een herhaling van vorig jaar
 ![Debug](./debug.png)
 
 
-# opdracht 4
+# opdracht 6
 public variables changed:
     
     public Transform start;
