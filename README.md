@@ -46,6 +46,8 @@ public variables changed:
 
 [[Code]](https://github.com/NoahBergkamp/CardsTD/tree/main/tower%20defense/Assets/scripts)
 note: zit ook wiskunde huiswerk in wat niet bij de bo hoort aangezien jelle dat wou
+
 [Code](https://github.com/NoahBergkamp/CardsTD/blob/main/tower%20defense/Assets/scripts/RoundManagement/RoundManagerScript.cs)
+dit script had de meeste public to private changes
 
 
