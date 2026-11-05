@@ -8,12 +8,13 @@ deze opdracht was een herhaling van vorig jaar
 
 # Opdracht 2
 ![GIF](./bossfightcut.gif)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
+[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/ScoreAdd.cs)
 
 
 # Opdracht 3
 ![Debug](./debug.png)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/ScoreAdd.cs)
+[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
+
 
 
 # opdracht 6
