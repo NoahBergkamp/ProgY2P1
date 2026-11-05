@@ -4,16 +4,16 @@
 deze opdracht was een herhaling van vorig jaar
 
 ![Screenshot 2026](./Screenshot%202026-09-10%20130946.png)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/player.cs)
+[[Code]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/player.cs)
 
 # Opdracht 2
 ![GIF](./bossfightcut.gif)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/ScoreAdd.cs)
+[[Code]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/ScoreAdd.cs)
 
 
 # Opdracht 3
 ![Debug](./debug.png)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
+[[Code]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
 
 
 
@@ -44,7 +44,8 @@ public variables changed:
     public int MaxRounds = 10;
     public float timeBetweenRounds = 2f;  
 
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/CardsTD/tree/main/tower%20defense/Assets/scripts)
+[[Code]](https://github.com/NoahBergkamp/CardsTD/tree/main/tower%20defense/Assets/scripts)
 note: zit ook wiskunde huiswerk in wat niet bij de bo hoort aangezien jelle dat wou
+[Code](https://github.com/NoahBergkamp/CardsTD/blob/main/tower%20defense/Assets/scripts/RoundManagement/RoundManagerScript.cs)
 
 
