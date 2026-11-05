@@ -13,7 +13,7 @@ deze opdracht was een herhaling van vorig jaar
 
 # Opdracht 3
 ![Debug](./debug.png)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
+[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/ScoreAdd.cs)
 
 
 # opdracht 6
