@@ -4,7 +4,7 @@
 deze opdracht was een herhaling van vorig jaar
 
 ![Screenshot 2026](./Screenshot%202026-09-10%20130946.png)
-[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/tree/main/ProgM5/Assets/Scripts)
+[[Prog5/Assets/Script]](https://github.com/NoahBergkamp/ProgY2P1/blob/main/ProgM5/Assets/Scripts/player.cs)
 
 # Opdracht 2
 ![GIF](./bossfightcut.gif)
